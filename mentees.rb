@@ -1,9 +1,9 @@
 class Mentees < Formula
   desc "A CLI tool for managing mentees"
   homepage "https://github.com/d-pagey/mentee_cli"
-  url "https://github.com/d-pagey/mentee_cli/releases/download/v1.2.8/mentees-macos.tar.gz"
-  sha256 "e9a343b51f35e4f392ca2a659316b3594ea2e49c7cce77e648ba5dfd95b5a32f" 
-  version "1.2.8"
+  url "https://github.com/d-pagey/mentee_cli/releases/download/v1.2.9/mentees-macos.tar.gz"
+  sha256 "f55ff62c3eeadde9a718a136f29945d21a2f92169a444ef270fbebe201f73e3c" 
+  version "1.2.9"
 
   def install
     bin.install "mentees"
